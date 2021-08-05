@@ -3,3 +3,5 @@
 ## 项目结构
 #### project——stm32_project
 #### structure_model——solidworks_project
+## AIStudio项目主页
+<https://aistudio.baidu.com/aistudio/projectdetail/2212142>
