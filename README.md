@@ -3,6 +3,6 @@
 ### 项目结构
 #### control——stm32_project
 #### structure_model——solidworks_project
-#### python-train&communicate_code
+#### python——train&communicate_code
 ### AIStudio项目主页
 <https://aistudio.baidu.com/aistudio/projectdetail/2212142>
